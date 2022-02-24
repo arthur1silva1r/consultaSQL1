@@ -1,1 +1,7 @@
-select product_name, id from northwind.products order by product_name asc;
+select
+	product_name,
+	id
+from
+	northwind.products
+order by
+	product_name asc;

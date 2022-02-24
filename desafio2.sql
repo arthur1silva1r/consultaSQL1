@@ -1,1 +1,4 @@
-Select * from northwind.products;
+Select
+	*
+from
+	northwind.products;
