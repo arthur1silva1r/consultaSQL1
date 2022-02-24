@@ -1,0 +1,1 @@
+Select id from products;
