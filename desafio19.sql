@@ -1,5 +1,5 @@
 SELECT
-	COUNT(DISTINCT customer_id)
+	COUNT(DISTINCT customer_id) AS orders_count
 FROM
 	orders
 WHERE 
